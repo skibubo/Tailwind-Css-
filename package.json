@@ -1,0 +1,22 @@
+{
+    "name": "NinjaFood",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build-css": "tailwindcss build source/style.css -o public/style.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "-": "0.0.1",
+        "j": "^1.0.0",
+        "live": "^0.1.25-beta.0",
+        "server": "^1.0.29",
+        "tailwindcss": "^1.5.2"
+    },
+    "devDependencies": {
+        "stylelint-config-recommended": "^3.0.0"
+    }
+}
